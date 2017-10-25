@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brightcontrolunit2000.iOS",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brightcontrolunit2000.Droid", "Droid\brightcontrolunit2000.Droid.csproj", "{08FA4C97-B343-4860-88E5-F74D31C07D55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brightcontrolunit2000.core", "brightcontrolunit2000.core\brightcontrolunit2000.core.csproj", "{442C021C-73C2-46BA-98CA-69D6788560E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
@@ -41,5 +43,17 @@ Global
 		{08FA4C97-B343-4860-88E5-F74D31C07D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08FA4C97-B343-4860-88E5-F74D31C07D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08FA4C97-B343-4860-88E5-F74D31C07D55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{442C021C-73C2-46BA-98CA-69D6788560E6}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{442C021C-73C2-46BA-98CA-69D6788560E6}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{442C021C-73C2-46BA-98CA-69D6788560E6}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{442C021C-73C2-46BA-98CA-69D6788560E6}.Release|iPhone.Build.0 = Release|Any CPU
+		{442C021C-73C2-46BA-98CA-69D6788560E6}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{442C021C-73C2-46BA-98CA-69D6788560E6}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{442C021C-73C2-46BA-98CA-69D6788560E6}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{442C021C-73C2-46BA-98CA-69D6788560E6}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{442C021C-73C2-46BA-98CA-69D6788560E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442C021C-73C2-46BA-98CA-69D6788560E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442C021C-73C2-46BA-98CA-69D6788560E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442C021C-73C2-46BA-98CA-69D6788560E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
